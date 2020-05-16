@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/withings
+/home/withings/sync.py --garmin-username="your.email@mail.com" --garmin-password="your.s3cret"
